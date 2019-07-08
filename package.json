@@ -1,0 +1,16 @@
+{
+  "name": "lambdabird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "renderer.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build renderer.js -d build/"
+  },
+  "keywords": [],
+  "author": "shulder",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  }
+}
