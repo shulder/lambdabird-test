@@ -11,6 +11,6 @@
   "author": "shulder",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^1.12.3"
+    "parcel": "^2.8.2"
   }
 }
